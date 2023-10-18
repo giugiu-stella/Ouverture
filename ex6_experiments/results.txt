@@ -1,0 +1,742 @@
+Résultats obtenus le Wed 16 Nov 2022 09:54:45 PM CET
+
+
+Pour donnee0 et donnee1 :
+Taille espace dynamique : 139
+Taille espace arbre : 204
+Taille espace arbre 1 : 144
+Taille espace arbre 2 : 60
+Taille espace dynamique : 501
+Taille espace arbre : 396
+Taille espace arbre 1 : 312
+Taille espace arbre 2 : 84
+Taille espace dynamique : 3021
+Taille espace arbre : 1128
+Taille espace arbre 1 : 852
+Taille espace arbre 2 : 276
+Taille espace dynamique : 6757
+Taille espace arbre : 1728
+Taille espace arbre 1 : 1248
+Taille espace arbre 2 : 480
+Taille espace dynamique : 12004
+Taille espace arbre : 2472
+Taille espace arbre 1 : 1644
+Taille espace arbre 2 : 828
+Taille espace dynamique : 18732
+Taille espace arbre : 3300
+Taille espace arbre 1 : 2124
+Taille espace arbre 2 : 1176
+Taille espace dynamique : 27109
+Taille espace arbre : 4056
+Taille espace arbre 1 : 2520
+Taille espace arbre 2 : 1536
+Taille espace dynamique : 48411
+Taille espace arbre : 5892
+Taille espace arbre 1 : 3396
+Taille espace arbre 2 : 2496
+Taille espace dynamique : 146910
+Taille espace arbre : 10776
+Taille espace arbre 1 : 5796
+Taille espace arbre 2 : 4980
+Taille espace dynamique : 191692
+Taille espace arbre : 12396
+Taille espace arbre 1 : 6648
+Taille espace arbre 2 : 5748
+Taille espace dynamique : 299187
+Taille espace arbre : 15768
+Taille espace arbre 1 : 8448
+Taille espace arbre 2 : 7320
+Taille espace dynamique : 695286
+Taille espace arbre : 24660
+Taille espace arbre 1 : 11724
+Taille espace arbre 2 : 12936
+	Pour 10 characteres :
+				Temps dynamique : 0.000064
+					Resultat : "D'a"
+				Temps arbre : 0.000027
+					Resultat : "D'a"
+
+	Pour 20 characteres :
+				Temps dynamique : 0.000019
+					Resultat : "D'a"
+				Temps arbre : 0.000061
+					Resultat : "D'a"
+
+	Pour 50 characteres :
+				Temps dynamique : 0.000091
+					Resultat : " et "
+				Temps arbre : 0.000222
+					Resultat : " et "
+
+	Pour 75 characteres :
+				Temps dynamique : 0.000222
+					Resultat : " dans l"
+				Temps arbre : 0.000366
+					Resultat : " dans l"
+
+	Pour 100 characteres :
+				Temps dynamique : 0.000354
+					Resultat : ", la traducti"
+				Temps arbre : 0.000525
+					Resultat : ", la traducti"
+
+	Pour 125 characteres :
+				Temps dynamique : 0.000554
+					Resultat : "D'abord confinée d"
+				Temps arbre : 0.000719
+					Resultat : "D'abord confinée d"
+
+	Pour 150 characteres :
+				Temps dynamique : 0.000797
+					Resultat : "D'abord confinée dans les monastères et li"
+				Temps arbre : 0.001045
+					Resultat : "D'abord confinée dans les monastères et li"
+
+	Pour 200 characteres :
+				Temps dynamique : 0.001093
+					Resultat : "D'abord confinée dans les monastères et limitée essentiellement au domaine religieux, la tr"
+				Temps arbre : 0.000870
+					Resultat : "D'abord confinée dans les monastères et limitée essentiellement au domaine religieux, la tr"
+
+	Pour 350 characteres :
+				Temps dynamique : 0.004351
+					Resultat : "D'abord confinée dans les monastères et limitée essentiellement au domaine religieux, la traduction s'étend au domaine profane dès le Xe  siècle. Bientôt apparaissent en langue romane des fabliaux, comédies ou romans imités d'oeuvres d"
+				Temps arbre : 0.002746
+					Resultat : "D'abord confinée dans les monastères et limitée essentiellement au domaine religieux, la traduction s'étend au domaine profane dès le Xe  siècle. Bientôt apparaissent en langue romane des fabliaux, comédies ou romans imités d'oeuvres d"
+
+	Pour 400 characteres :
+				Temps dynamique : 0.005679
+					Resultat : "D'abord confinée dans les monastères et limitée essentiellement au domaine religieux, la traduction s'étend au domaine profane dès le Xe  siècle. Bientôt apparaissent en langue romane des fabliaux, comédies ou romans imités d'oeuvres de l'Antiquité, et les premiers grands poètes - C"
+				Temps arbre : 0.004662
+					Resultat : "D'abord confinée dans les monastères et limitée essentiellement au domaine religieux, la traduction s'étend au domaine profane dès le Xe  siècle. Bientôt apparaissent en langue romane des fabliaux, comédies ou romans imités d'oeuvres de l'Antiquité, et les premiers grands poètes - C"
+
+	Pour 500 characteres :
+				Temps dynamique : 0.009098
+					Resultat : "D'abord confinée dans les monastères et limitée essentiellement au domaine religieux, la traduction s'étend au domaine profane dès le Xe  siècle. Bientôt apparaissent en langue romane des fabliaux, comédies ou romans imités d'oeuvres de l'Antiquité, et les premiers grands poètes - Chrétien de Troyes, Marie de France, Rutebeuf, Jean de Meung - sont avant tout traducteurs (à une �"
+				Temps arbre : 0.005249
+					Resultat : "D'abord confinée dans les monastères et limitée essentiellement au domaine religieux, la traduction s'étend au domaine profane dès le Xe  siècle. Bientôt apparaissent en langue romane des fabliaux, comédies ou romans imités d'oeuvres de l'Antiquité, et les premiers grands poètes - Chrétien de Troyes, Marie de France, Rutebeuf, Jean de Meung - sont avant tout traducteurs (à une �"
+
+	Pour 872 characteres :
+				Temps dynamique : 0.022600
+					Resultat : "D'abord confinée dans les monastères et limitée essentiellement au domaine religieux, la traduction s'étend au domaine profane dès le Xe  siècle. Bientôt apparaissent en langue romane des fabliaux, comédies ou romans imités d'oeuvres de l'Antiquité, et les premiers grands poètes - Chrétien de Troyes, Marie de France, Rutebeuf, Jean de Meung - sont avant tout traducteurs (à une époque où traduction, imitation et création ne sont guère différenciées). Ce n'est toutefois qu'au XIVe siècle, marqué par la création des premières universités, que la traduction quitte les monastères et connaît un bref essor grâce à la protection de la cour."
+				Temps arbre : 0.012613
+					Resultat : "D'abord confinée dans les monastères et limitée essentiellement au domaine religieux, la traduction s'étend au domaine profane dès le Xe  siècle. Bientôt apparaissent en langue romane des fabliaux, comédies ou romans imités d'oeuvres de l'Antiquité, et les premiers grands poètes - Chrétien de Troyes, Marie de France, Rutebeuf, Jean de Meung - sont avant tout traducteurs (à une époque où traduction, imitation et création ne sont guère différenciées). Ce n'est toutefois qu'au XIVe siècle, marqué par la création des premières universités, que la traduction quitte les monastères et connaît un bref essor grâce à la protection de la cour."
+
+
+
+Pour donnee0 et donnee2 :
+Taille espace dynamique : 139
+Taille espace arbre : 204
+Taille espace arbre 1 : 144
+Taille espace arbre 2 : 60
+Taille espace dynamique : 501
+Taille espace arbre : 396
+Taille espace arbre 1 : 312
+Taille espace arbre 2 : 84
+Taille espace dynamique : 3021
+Taille espace arbre : 1128
+Taille espace arbre 1 : 852
+Taille espace arbre 2 : 276
+Taille espace dynamique : 6757
+Taille espace arbre : 1728
+Taille espace arbre 1 : 1248
+Taille espace arbre 2 : 480
+Taille espace dynamique : 12004
+Taille espace arbre : 2472
+Taille espace arbre 1 : 1644
+Taille espace arbre 2 : 828
+Taille espace dynamique : 18753
+Taille espace arbre : 3180
+Taille espace arbre 1 : 2124
+Taille espace arbre 2 : 1056
+Taille espace dynamique : 27082
+Taille espace arbre : 3924
+Taille espace arbre 1 : 2520
+Taille espace arbre 2 : 1404
+Taille espace dynamique : 48303
+Taille espace arbre : 5388
+Taille espace arbre 1 : 3396
+Taille espace arbre 2 : 1992
+Taille espace dynamique : 147177
+Taille espace arbre : 9720
+Taille espace arbre 1 : 5796
+Taille espace arbre 2 : 3924
+Taille espace dynamique : 191704
+Taille espace arbre : 11028
+Taille espace arbre 1 : 6648
+Taille espace arbre 2 : 4380
+Taille espace dynamique : 299064
+Taille espace arbre : 14196
+Taille espace arbre 1 : 8448
+Taille espace arbre 2 : 5748
+Taille espace dynamique : 712184
+Taille espace arbre : 22320
+Taille espace arbre 1 : 11724
+Taille espace arbre 2 : 10596
+	Pour 10 characteres :
+				Temps dynamique : 0.000008
+					Resultat : "D'a"
+				Temps arbre : 0.000018
+					Resultat : "D'a"
+
+	Pour 20 characteres :
+				Temps dynamique : 0.000015
+					Resultat : "D'a"
+				Temps arbre : 0.000031
+					Resultat : "D'a"
+
+	Pour 50 characteres :
+				Temps dynamique : 0.000075
+					Resultat : " et "
+				Temps arbre : 0.000106
+					Resultat : " et "
+
+	Pour 75 characteres :
+				Temps dynamique : 0.000178
+					Resultat : " dans l"
+				Temps arbre : 0.000169
+					Resultat : " dans l"
+
+	Pour 100 characteres :
+				Temps dynamique : 0.000265
+					Resultat : ", la traducti"
+				Temps arbre : 0.000279
+					Resultat : ", la traducti"
+
+	Pour 125 characteres :
+				Temps dynamique : 0.000406
+					Resultat : ", la traduction "
+				Temps arbre : 0.000342
+					Resultat : ", la traduction "
+
+	Pour 150 characteres :
+				Temps dynamique : 0.000609
+					Resultat : "'abord confinée dans les monas"
+				Temps arbre : 0.000528
+					Resultat : "'abord confinée dans les monas"
+
+	Pour 200 characteres :
+				Temps dynamique : 0.001127
+					Resultat : "'abord confinée dans les monastères et limitée "
+				Temps arbre : 0.000790
+					Resultat : "'abord confinée dans les monastères et limitée "
+
+	Pour 350 characteres :
+				Temps dynamique : 0.004247
+					Resultat : "'abord confinée dans les monastères et limitée "
+				Temps arbre : 0.002004
+					Resultat : "'abord confinée dans les monastères et limitée "
+
+	Pour 400 characteres :
+				Temps dynamique : 0.005658
+					Resultat : "'abord confinée dans les monastères et limitée "
+				Temps arbre : 0.002555
+					Resultat : "'abord confinée dans les monastères et limitée "
+
+	Pour 500 characteres :
+				Temps dynamique : 0.008562
+					Resultat : "es premiers grands poètes - Chrétien de Troyes, Marie de France, Rutebeuf, Jean de Meung - sont "
+				Temps arbre : 0.003659
+					Resultat : "es premiers grands poètes - Chrétien de Troyes, Marie de France, Rutebeuf, Jean de Meung - sont "
+
+	Pour 894 characteres :
+				Temps dynamique : 0.022529
+					Resultat : "es premiers grands poètes - Chrétien de Troyes, Marie de France, Rutebeuf, Jean de Meung - sont "
+				Temps arbre : 0.006215
+					Resultat : "es premiers grands poètes - Chrétien de Troyes, Marie de France, Rutebeuf, Jean de Meung - sont "
+
+
+
+Pour donnee0 et donnee3 :
+Taille espace dynamique : 142
+Taille espace arbre : 204
+Taille espace arbre 1 : 144
+Taille espace arbre 2 : 60
+Taille espace dynamique : 516
+Taille espace arbre : 408
+Taille espace arbre 1 : 312
+Taille espace arbre 2 : 96
+Taille espace dynamique : 3042
+Taille espace arbre : 1164
+Taille espace arbre 1 : 852
+Taille espace arbre 2 : 312
+Taille espace dynamique : 6805
+Taille espace arbre : 1668
+Taille espace arbre 1 : 1248
+Taille espace arbre 2 : 420
+Taille espace dynamique : 12076
+Taille espace arbre : 2436
+Taille espace arbre 1 : 1644
+Taille espace arbre 2 : 792
+Taille espace dynamique : 18972
+Taille espace arbre : 3060
+Taille espace arbre 1 : 2124
+Taille espace arbre 2 : 936
+Taille espace dynamique : 27406
+Taille espace arbre : 3840
+Taille espace arbre 1 : 2520
+Taille espace arbre 2 : 1320
+Taille espace dynamique : 48795
+Taille espace arbre : 4944
+Taille espace arbre 1 : 3396
+Taille espace arbre 2 : 1548
+Taille espace dynamique : 147996
+Taille espace arbre : 8772
+Taille espace arbre 1 : 5796
+Taille espace arbre 2 : 2976
+Taille espace dynamique : 192973
+Taille espace arbre : 10104
+Taille espace arbre 1 : 6648
+Taille espace arbre 2 : 3456
+Taille espace dynamique : 299742
+Taille espace arbre : 12264
+Taille espace arbre 1 : 8448
+Taille espace arbre 2 : 3816
+Taille espace dynamique : 409516
+Taille espace arbre : 13860
+Taille espace arbre 1 : 9036
+Taille espace arbre 2 : 4824
+	Pour 10 characteres :
+				Temps dynamique : 0.000008
+					Resultat : "c"
+				Temps arbre : 0.000019
+					Resultat : "r"
+
+	Pour 20 characteres :
+				Temps dynamique : 0.000015
+					Resultat : "on"
+				Temps arbre : 0.000033
+					Resultat : "on"
+
+	Pour 50 characteres :
+				Temps dynamique : 0.000075
+					Resultat : " dans l"
+				Temps arbre : 0.000105
+					Resultat : " dans l"
+
+	Pour 75 characteres :
+				Temps dynamique : 0.000172
+					Resultat : " dans l"
+				Temps arbre : 0.000169
+					Resultat : " dans l"
+
+	Pour 100 characteres :
+				Temps dynamique : 0.000265
+					Resultat : "a traducti"
+				Temps arbre : 0.000240
+					Resultat : "a traducti"
+
+	Pour 125 characteres :
+				Temps dynamique : 0.000416
+					Resultat : "a traduction "
+				Temps arbre : 0.000343
+					Resultat : "a traduction "
+
+	Pour 150 characteres :
+				Temps dynamique : 0.000588
+					Resultat : "a traduction "
+				Temps arbre : 0.000410
+					Resultat : "a traduction "
+
+	Pour 200 characteres :
+				Temps dynamique : 0.001070
+					Resultat : "a traduction "
+				Temps arbre : 0.000593
+					Resultat : "a traduction "
+
+	Pour 350 characteres :
+				Temps dynamique : 0.003296
+					Resultat : "es monastères"
+				Temps arbre : 0.001625
+					Resultat : "es monastères"
+
+	Pour 400 characteres :
+				Temps dynamique : 0.004286
+					Resultat : "es monastères"
+				Temps arbre : 0.001946
+					Resultat : "es monastères"
+
+	Pour 500 characteres :
+				Temps dynamique : 0.006854
+					Resultat : " la traduction "
+				Temps arbre : 0.002799
+					Resultat : " la traduction "
+
+	Pour 668 characteres :
+				Temps dynamique : 0.011957
+					Resultat : " des premières universités"
+				Temps arbre : 0.004153
+					Resultat : " des premières universités"
+
+
+
+Pour donnee0 et donnee4 :
+Taille espace dynamique : 142
+Taille espace arbre : 204
+Taille espace arbre 1 : 144
+Taille espace arbre 2 : 60
+Taille espace dynamique : 516
+Taille espace arbre : 408
+Taille espace arbre 1 : 312
+Taille espace arbre 2 : 96
+Taille espace dynamique : 3042
+Taille espace arbre : 1164
+Taille espace arbre 1 : 852
+Taille espace arbre 2 : 312
+Taille espace dynamique : 6805
+Taille espace arbre : 1668
+Taille espace arbre 1 : 1248
+Taille espace arbre 2 : 420
+Taille espace dynamique : 12010
+Taille espace arbre : 2472
+Taille espace arbre 1 : 1644
+Taille espace arbre 2 : 828
+Taille espace dynamique : 18822
+Taille espace arbre : 3120
+Taille espace arbre 1 : 2124
+Taille espace arbre 2 : 996
+Taille espace dynamique : 27283
+Taille espace arbre : 3792
+Taille espace arbre 1 : 2520
+Taille espace arbre 2 : 1272
+Taille espace dynamique : 48702
+Taille espace arbre : 5028
+Taille espace arbre 1 : 3396
+Taille espace arbre 2 : 1632
+Taille espace dynamique : 148062
+Taille espace arbre : 8676
+Taille espace arbre 1 : 5796
+Taille espace arbre 2 : 2880
+Taille espace dynamique : 192733
+Taille espace arbre : 10104
+Taille espace arbre 1 : 6648
+Taille espace arbre 2 : 3456
+Taille espace dynamique : 299622
+Taille espace arbre : 12492
+Taille espace arbre 1 : 8448
+Taille espace arbre 2 : 4044
+Taille espace dynamique : 426837
+Taille espace arbre : 14256
+Taille espace arbre 1 : 9372
+Taille espace arbre 2 : 4884
+	Pour 10 characteres :
+				Temps dynamique : 0.000008
+					Resultat : "c"
+				Temps arbre : 0.000018
+					Resultat : "r"
+
+	Pour 20 characteres :
+				Temps dynamique : 0.000015
+					Resultat : "on"
+				Temps arbre : 0.000033
+					Resultat : "on"
+
+	Pour 50 characteres :
+				Temps dynamique : 0.000069
+					Resultat : " dans l"
+				Temps arbre : 0.000119
+					Resultat : " dans l"
+
+	Pour 75 characteres :
+				Temps dynamique : 0.000172
+					Resultat : " dans l"
+				Temps arbre : 0.000173
+					Resultat : " dans l"
+
+	Pour 100 characteres :
+				Temps dynamique : 0.000257
+					Resultat : "a traducti"
+				Temps arbre : 0.000246
+					Resultat : "a traducti"
+
+	Pour 125 characteres :
+				Temps dynamique : 0.000405
+					Resultat : "a traduction "
+				Temps arbre : 0.000584
+					Resultat : "a traduction "
+
+	Pour 150 characteres :
+				Temps dynamique : 0.000599
+					Resultat : "a traduction "
+				Temps arbre : 0.000408
+					Resultat : "a traduction "
+
+	Pour 200 characteres :
+				Temps dynamique : 0.001090
+					Resultat : "a traduction "
+				Temps arbre : 0.000599
+					Resultat : "a traduction "
+
+	Pour 350 characteres :
+				Temps dynamique : 0.003296
+					Resultat : "es monastères"
+				Temps arbre : 0.002296
+					Resultat : "es monastères"
+
+	Pour 400 characteres :
+				Temps dynamique : 0.004211
+					Resultat : "es monastères"
+				Temps arbre : 0.001866
+					Resultat : "es monastères"
+
+	Pour 500 characteres :
+				Temps dynamique : 0.006724
+					Resultat : " la traduction "
+				Temps arbre : 0.002683
+					Resultat : " la traduction "
+
+	Pour 668 characteres :
+				Temps dynamique : 0.010941
+					Resultat : " des premières universités"
+				Temps arbre : 0.004131
+					Resultat : " des premières universités"
+
+
+
+Pour donnee0 et donnee5 :
+Taille espace dynamique : 142
+Taille espace arbre : 180
+Taille espace arbre 1 : 144
+Taille espace arbre 2 : 36
+Taille espace dynamique : 525
+Taille espace arbre : 468
+Taille espace arbre 1 : 312
+Taille espace arbre 2 : 156
+Taille espace dynamique : 3033
+Taille espace arbre : 1200
+Taille espace arbre 1 : 852
+Taille espace arbre 2 : 348
+Taille espace dynamique : 6820
+Taille espace arbre : 1632
+Taille espace arbre 1 : 1248
+Taille espace arbre 2 : 384
+Taille espace dynamique : 11989
+Taille espace arbre : 2064
+Taille espace arbre 1 : 1644
+Taille espace arbre 2 : 420
+Taille espace dynamique : 18609
+Taille espace arbre : 2796
+Taille espace arbre 1 : 2124
+Taille espace arbre 2 : 672
+Taille espace dynamique : 26848
+Taille espace arbre : 3228
+Taille espace arbre 1 : 2520
+Taille espace arbre 2 : 708
+Taille espace dynamique : 47625
+Taille espace arbre : 4392
+Taille espace arbre 1 : 3396
+Taille espace arbre 2 : 996
+Taille espace dynamique : 89073
+Taille espace arbre : 5292
+Taille espace arbre 1 : 3624
+Taille espace arbre 2 : 1668
+Taille espace dynamique : 101813
+Taille espace arbre : 5400
+Taille espace arbre 1 : 3624
+Taille espace arbre 2 : 1776
+Taille espace dynamique : 127116
+Taille espace arbre : 5592
+Taille espace arbre 1 : 3624
+Taille espace arbre 2 : 1968
+Taille espace dynamique : 169884
+Taille espace arbre : 5928
+Taille espace arbre 1 : 3624
+Taille espace arbre 2 : 2304
+	Pour 10 characteres :
+				Temps dynamique : 0.000008
+					Resultat : " "
+				Temps arbre : 0.000017
+					Resultat : "d"
+
+	Pour 20 characteres :
+				Temps dynamique : 0.000022
+					Resultat : "da"
+				Temps arbre : 0.000036
+					Resultat : "é"
+
+	Pour 50 characteres :
+				Temps dynamique : 0.000068
+					Resultat : "é"
+				Temps arbre : 0.000212
+					Resultat : "é"
+
+	Pour 75 characteres :
+				Temps dynamique : 0.000185
+					Resultat : "nti"
+				Temps arbre : 0.000163
+					Resultat : "nti"
+
+	Pour 100 characteres :
+				Temps dynamique : 0.000263
+					Resultat : "ne "
+				Temps arbre : 0.000221
+					Resultat : "nti"
+
+	Pour 125 characteres :
+				Temps dynamique : 0.000403
+					Resultat : " s'étend "
+				Temps arbre : 0.000345
+					Resultat : " s'étend "
+
+	Pour 150 characteres :
+				Temps dynamique : 0.000582
+					Resultat : " s'étend "
+				Temps arbre : 0.000359
+					Resultat : " s'étend "
+
+	Pour 200 characteres :
+				Temps dynamique : 0.001247
+					Resultat : " s'étend "
+				Temps arbre : 0.000530
+					Resultat : " s'étend "
+
+	Pour 350 characteres :
+				Temps dynamique : 0.002178
+					Resultat : " s'étend "
+				Temps arbre : 0.001702
+					Resultat : " s'étend "
+
+	Pour 400 characteres :
+				Temps dynamique : 0.002189
+					Resultat : " s'étend "
+				Temps arbre : 0.001345
+					Resultat : " s'étend "
+
+	Pour 500 characteres :
+				Temps dynamique : 0.002777
+					Resultat : " s'étend "
+				Temps arbre : 0.001619
+					Resultat : " s'étend "
+
+	Pour 668 characteres :
+				Temps dynamique : 0.003691
+					Resultat : " s'étend "
+				Temps arbre : 0.002173
+					Resultat : " s'étend "
+
+
+
+Pour donnee0 et donnee6 :
+Taille espace dynamique : 136
+Taille espace arbre : 180
+Taille espace arbre 1 : 144
+Taille espace arbre 2 : 36
+Taille espace dynamique : 510
+Taille espace arbre : 468
+Taille espace arbre 1 : 312
+Taille espace arbre 2 : 156
+Taille espace dynamique : 3087
+Taille espace arbre : 1116
+Taille espace arbre 1 : 852
+Taille espace arbre 2 : 264
+Taille espace dynamique : 6916
+Taille espace arbre : 1740
+Taille espace arbre 1 : 1248
+Taille espace arbre 2 : 492
+Taille espace dynamique : 12247
+Taille espace arbre : 2280
+Taille espace arbre 1 : 1644
+Taille espace arbre 2 : 636
+Taille espace dynamique : 19011
+Taille espace arbre : 2928
+Taille espace arbre 1 : 2124
+Taille espace arbre 2 : 804
+Taille espace dynamique : 27367
+Taille espace arbre : 3504
+Taille espace arbre 1 : 2520
+Taille espace arbre 2 : 984
+Taille espace dynamique : 48663
+Taille espace arbre : 4632
+Taille espace arbre 1 : 3396
+Taille espace arbre 2 : 1236
+Taille espace dynamique : 91187
+Taille espace arbre : 5508
+Taille espace arbre 1 : 3600
+Taille espace arbre 2 : 1908
+Taille espace dynamique : 104208
+Taille espace arbre : 5568
+Taille espace arbre 1 : 3600
+Taille espace arbre 2 : 1968
+Taille espace dynamique : 129929
+Taille espace arbre : 5796
+Taille espace arbre 1 : 3600
+Taille espace arbre 2 : 2196
+Taille espace dynamique : 173648
+Taille espace arbre : 6192
+Taille espace arbre 1 : 3600
+Taille espace arbre 2 : 2592
+	Pour 10 characteres :
+				Temps dynamique : 0.000008
+					Resultat : " "
+				Temps arbre : 0.000017
+					Resultat : "d"
+
+	Pour 20 characteres :
+				Temps dynamique : 0.000015
+					Resultat : "e d"
+				Temps arbre : 0.000036
+					Resultat : "e d"
+
+	Pour 50 characteres :
+				Temps dynamique : 0.000068
+					Resultat : " le"
+				Temps arbre : 0.000101
+					Resultat : "e d"
+
+	Pour 75 characteres :
+				Temps dynamique : 0.000182
+					Resultat : " dans l"
+				Temps arbre : 0.000160
+					Resultat : " dans l"
+
+	Pour 100 characteres :
+				Temps dynamique : 0.000268
+					Resultat : " dans l"
+				Temps arbre : 0.000233
+					Resultat : " dans l"
+
+	Pour 125 characteres :
+				Temps dynamique : 0.000432
+					Resultat : " dans l"
+				Temps arbre : 0.000313
+					Resultat : " dans l"
+
+	Pour 150 characteres :
+				Temps dynamique : 0.000589
+					Resultat : " dans l"
+				Temps arbre : 0.000483
+					Resultat : " dans l"
+
+	Pour 200 characteres :
+				Temps dynamique : 0.001038
+					Resultat : " dans l"
+				Temps arbre : 0.000570
+					Resultat : " dans l"
+
+	Pour 350 characteres :
+				Temps dynamique : 0.002004
+					Resultat : " dans l"
+				Temps arbre : 0.001169
+					Resultat : " dans l"
+
+	Pour 400 characteres :
+				Temps dynamique : 0.002346
+					Resultat : " dans l"
+				Temps arbre : 0.001283
+					Resultat : " dans l"
+
+	Pour 500 characteres :
+				Temps dynamique : 0.003958
+					Resultat : " dans l"
+				Temps arbre : 0.001258
+					Resultat : " dans l"
+
+	Pour 668 characteres :
+				Temps dynamique : 0.004251
+					Resultat : " la pro"
+				Temps arbre : 0.001967
+					Resultat : " la pro"
+
+
+
+

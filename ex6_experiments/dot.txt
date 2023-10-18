@@ -1,0 +1,42 @@
+// Graphe de ANANAS_ :
+graph {
+ANANAS_ -- A;
+A -- NA;
+NA -- NAS_;
+NA -- S_;
+A -- S_;
+ANANAS_ -- NA;
+NA -- NAS_;
+NA -- S_;
+ANANAS_ -- S_;
+ANANAS_ -- _;
+}
+
+// Graphe de BANANE_ :
+graph {
+BANANE_ -- AN;
+AN -- ANE_;
+AN -- E_;
+BANANE_ -- BANANE_;
+BANANE_ -- E_;
+BANANE_ -- N;
+N -- ANE_;
+N -- E_;
+BANANE_ -- _;
+}
+
+// Graphe de CARAMBAR_ :
+graph {
+CARAMBAR_ -- A;
+A -- MBAR_;
+A -- R;
+R -- AMBAR_;
+R -- _;
+CARAMBAR_ -- BAR_;
+CARAMBAR_ -- CARAMBAR_;
+CARAMBAR_ -- MBAR_;
+CARAMBAR_ -- R;
+R -- AMBAR_;
+R -- _;
+CARAMBAR_ -- _;
+}
